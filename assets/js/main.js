@@ -9,7 +9,7 @@
 const GITHUB_OWNER = "opnoraweb-creator";
 const GITHUB_REPO = "mai-ambe-steel-and-furniture";
 
-const PRODUCTS_PATH = "assets/images/products";
+const PRODUCTS_PATH = "assets/images";
 
 let allPhotos = [];
 let currentPhotoIndex = 0;
