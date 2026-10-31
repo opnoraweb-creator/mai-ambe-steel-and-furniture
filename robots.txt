@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR-WEBSITE-DOMAIN/sitemap.xml
+Sitemap: http://mai-ambe-govind-steel-furniture-pali.digiprofiles.in/sitemap.xml
